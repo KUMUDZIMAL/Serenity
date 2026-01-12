@@ -12,7 +12,7 @@ const Features = () => {
           style={{ backgroundColor: "rgba(255,182,209,0.65)" }} // Soft Pink
         >
           <h1 className="text-2xl font-bold font-copernicusMedium text-slate-800 text-center pt-4">
-            AI Guided Assessment
+            AI Assessment
           </h1>
           <p className="text-sm font-outfitRegular text-slate-600 justify-center text-center pt-4">
             Get dynamic, personalized AI-driven mental health assessments tailored to your needs.
@@ -29,7 +29,7 @@ const Features = () => {
           style={{ backgroundColor: "rgba(160,240,255,0.65)" }} // Sky Blue
         >
           <h1 className="text-2xl font-bold font-copernicusMedium text-slate-800 text-center pt-4">
-            AI First-Aid Bot
+            ChatBot
           </h1>
           <p className="text-sm font-outfitRegular text-slate-600 justify-center text-center pt-4">
             Access an AI-powered chatbot providing instant mental health guidance whenever you need it.
@@ -66,7 +66,7 @@ const Features = () => {
           style={{ backgroundColor: "rgba(216,169,255,0.65)" }} // Lavender
         >
           <h1 className="text-2xl font-bold font-copernicusMedium text-slate-800 text-center pt-4">
-            Confidential Booking
+            Online Consultations
           </h1>
           <p className="text-sm font-outfitRegular text-slate-600 justify-center text-center pt-4">
             Book appointments with therapists confidentially for online consultations and support.
@@ -83,7 +83,7 @@ const Features = () => {
           style={{ backgroundColor: "rgba(255,182,209,0.65)" }} // Soft Pink
         >
           <h1 className="text-2xl font-bold font-copernicusMedium text-slate-800 text-center pt-4">
-            Resource Hub
+          Articles
           </h1>
           <p className="text-sm font-outfitRegular text-slate-600 justify-center text-center pt-4">
             Explore mental health articles, guides, and resources curated for your well-being.

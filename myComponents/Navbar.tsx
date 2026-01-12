@@ -63,11 +63,11 @@ const Navbar = () => {
         <div className="flex justify-center gap-5 relative z-20 pointer-events-auto">
           {[
             { href: "/", label: "Home" },
-            { href: "/assessment", label: "AI Guided Assessment" },
-            { href: "/chatbot", label: "AI First-Aid Bot" },
+            { href: "/assessment", label: "AI Assessment" },
+            { href: "/chatbot", label: "ChatBot" },
             { href: "/community", label: "Peer Support" },
-            { href: "/video-call", label: "Confidential Booking" },
-            { href: "/articles", label: "Resource Hub" },
+            { href: "/video-call", label: " Online Consultations" },
+            { href: "/articles", label: "Articles" },
             { href: "/dashboard", label: "User Dashboard" },
           ].map((link) => (
             <Link
