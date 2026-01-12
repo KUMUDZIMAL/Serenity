@@ -42,4 +42,4 @@ This innovation is complemented by an intelligent chatbot, interactive dashboard
 ![Chatbot & Community](https://github.com/Abhishek222983101/Serenity/blob/main/components/ui/chatbot_community.png)
 
 ### 🎥 WebRTC Teletherapy  
-![WebRTC](https://github.com/Abhishek222983101/Serenity/blob/main/components/ui/webRTC_2.jpeg)
+![WebRTC](https://github.com/KUMUDZIMAL/Serenity/blob/main/ScreenShots/Video%20call.png)
