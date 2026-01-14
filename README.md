@@ -19,8 +19,7 @@ This innovation is complemented by an intelligent chatbot, interactive dashboard
 
 ---
 
-## **📺 YouTube Demo**
-### [▶ Watch Here](https://youtu.be/9AKtvtt0qPQ)
+
 
 ---
 
