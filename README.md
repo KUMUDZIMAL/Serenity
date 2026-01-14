@@ -4,7 +4,7 @@ Serenity is an innovative mental health platform that combines AI-driven self-as
 
 ---
 
-## **Overview**
+## **Overview** 
 Our platform redefines mental health evaluations by moving away from static questionnaires and embracing a fully dynamic, machine learning–powered approach. By analyzing user responses in real time, our ML engine adapts the assessment process, providing nuanced insights and personalized recommendations.  
 
 This innovation is complemented by an intelligent chatbot, interactive dashboard, secure WebRTC doctor portal, and a thriving community space, creating a holistic ecosystem for mental health support.
